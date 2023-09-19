@@ -3,7 +3,7 @@
 This extension generates a commit message based on the branch name by allowing you to provide a regex and a template to fill with the matched value.
 
 <p align="center">
-  <img alt="VS Code in action" src="/resources/extension-example.gif">
+  <img alt="VS Code in action" src="https://raw.githubusercontent.com/Simofy/git-comment-template/main/resources/extension-example.gif">
 </p>
 
 ## Features
