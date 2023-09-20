@@ -2,6 +2,7 @@
   "name": "git-comment-template",
   "displayName": "git comment template",
   "description": "Simple plugin to help write git commit messages by providing template for ticket number",
+  "publisher": "simofy",
   "repository": {
     "url": "https://github.com/Simofy/git-comment-template"
   },
